@@ -42,7 +42,7 @@ Don't forget the seam allowance for these pieces when cutting if you are making 
 ##### Front Shoulder
 
 - Trace off of **Front** part.
-- Draw a curve from shoulder to bottom of armhole.
+- Draw a curve from shoulder to bottom of armhole. // todo add an image showing how the curve should look like
 - Cut along this curve and discard the lower part.
 - The upper piece is now the **Front Shoulder** part.
 
@@ -60,8 +60,8 @@ Don't forget the seam allowance for these pieces when cutting if you are making 
 
 ### Step 2: Fix Me
 
-<Fixme>
+## Back part
+Sew the darts closed. When folding the back part to sew, make sure that the bottom edges sit on top of the other. That will ensure that the piece will remain straigh after you unfold it.
+[close-the-back-darts.svg]
 
-Documentation for this pattern still needs to be written. In the meantime their are some preliminary instructions for ([Carlita, Carlton's Counterpart](/docs/patterns/carlita/instructions/)) that should help.
-
-</Fixme>
+Next step is sewing the [inverse back pleat TODO](/docs/sewing/inverse-box-pleat) on the pack piece. 
