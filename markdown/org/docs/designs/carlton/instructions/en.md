@@ -62,6 +62,6 @@ Don't forget the seam allowance for these pieces when cutting if you are making 
 
 ## Back part
 Sew the darts closed. When folding the back part to sew, make sure that the bottom edges sit on top of the other. That will ensure that the piece will remain straigh after you unfold it.
-![close-the-back-darts.svg]
+!(close-the-back-darts.svg)
 
 Next step is sewing the [inverse back pleat TODO](/docs/sewing/inverse-box-pleat) on the pack piece. 
