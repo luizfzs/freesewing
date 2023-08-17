@@ -42,7 +42,8 @@ Don't forget the seam allowance for these pieces when cutting if you are making 
 ##### Front Shoulder
 
 - Trace off of **Front** part.
-- Draw a curve from shoulder to bottom of armhole. // todo add an image showing how the curve should look like
+- Draw a curve from shoulder to bottom of armhole. It should look like the image below.
+![missing curve for front](missing-curve-for-front.png)
 - Cut along this curve and discard the lower part.
 - The upper piece is now the **Front Shoulder** part.
 
